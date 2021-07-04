@@ -80,9 +80,7 @@ accuracy_score(y_test, y_pred)
 """The problem we may have is that we may have far too many features.  PCA is used to
    represent a multivariate data table as smaller set of variables (summary indices) in
    order to observe trends, jumps, clusters and outliers
-
-   Link - https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-
-   pca-and-how-it-is-used-507186"""
+"""
 
 """We will look to decrease the number of features down to just two"""
 
