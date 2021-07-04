@@ -26,6 +26,7 @@ iris.isnull().sum() # thera are no null values in the data
 
 """Check the correlation between each of the vars"""
 """Sepal length and Sepal width as well as petal length and petal with look to be highly correlated"""
+#
 sns.pairplot(iris)
 iris.corr()
 
