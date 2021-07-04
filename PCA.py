@@ -1,4 +1,8 @@
-# Importing the libraries
+"""Sample code for implementing PCA to reduce the dimensionality of your feature
+ matrix (simple example)"""
+
+
+"""Importing the libraries"""
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
