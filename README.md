@@ -14,7 +14,7 @@ Please note the use of PCA in this example is not a good use case. We would tend
 features with a large number of these being non-prdictive and/or highly correlated with each other.
 
 Further information on PCA:
-Andrew Ng - https://www.youtube.com/watch?v=T-B8muDvzu0
+Andrew Ng - https://www.youtube.com/watch?v=T-B8muDvzu0  
 Visualize PCA - https://setosa.io/ev/principal-component-analysis/
 
 
